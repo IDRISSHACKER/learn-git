@@ -1,0 +1,23 @@
+{
+  "name": "github",
+  "version": "1.0.0",
+  "description": "contact: idrisscoder@gmail.com  Project name : #Node js app  link : ##github.com/IDRISS_CODER",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/idriss-coder/NodeApp.git"
+  },
+  "keywords": [
+    "javascript",
+    "nodejs"
+  ],
+  "author": "idriss-coder",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/idriss-coder/NodeApp/issues"
+  },
+  "homepage": "https://github.com/idriss-coder/NodeApp#readme"
+}
